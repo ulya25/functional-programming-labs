@@ -17,6 +17,7 @@ Lab_1/
   requirements.txt      # залежності (pytest, mypy, black, ruff)
   core.py               # чисте ядро: обчислення без побічних ефектів
   app.py                # оболонка: дані, політики, друк (print)
+  main.py               # точка входу, запускає обробку і вивід
   tests/test_core.py    # pytest-тести для ядра
 core.py (чисте ядро)
 немає print, читання файлів та іншого I/O;
@@ -64,7 +65,7 @@ pip install -r requirements.txt
 
 ## Запуск програми:
 
-python app.py
+python main.py
 
 ## Тести:
 
