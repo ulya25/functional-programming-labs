@@ -1,0 +1,8 @@
+[
+  {"id": 1, "title": "Python Basics", "category": "Programming", "enrollments": [120, 80, 60]},
+  {"id": 2, "title": "Data Science Intro", "category": "Data", "enrollments": [90, 70]},
+  {"id": 3, "title": "Web Design", "category": "Design", "enrollments": [40, 30]},
+  {"id": 4, "title": "Algorithms", "category": "Programming", "enrollments": [100, 90, 50]},
+  {"id": 5, "title": "SQL Fundamentals", "category": "Data", "enrollments": [60, 50, 40]},
+  {"id": 6, "title": "UX Research", "category": "Design", "enrollments": [20, 10]}
+]
